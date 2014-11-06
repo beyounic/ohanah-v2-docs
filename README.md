@@ -1,4 +1,4 @@
-ohanah-v2-docs
+Ohanah v2 Documentation
 ==============
 
-Public documentation for Ohanah v2
+This is documentation for [Ohanah](http://extensions.joomla.org/extensions/calendars-a-events/events/events-management/16935) - Event management extension for Joomla.
